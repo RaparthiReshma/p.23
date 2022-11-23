@@ -1,0 +1,10 @@
+a=32
+b=29
+if a>b:
+    print("a is greater")
+else:
+    print("b is greater")
+    
+    OUTPUT
+    a is greater
+> 
